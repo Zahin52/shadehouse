@@ -1,0 +1,10 @@
+.card-img-top{
+    transition: all 1.5s ease;
+}
+.card-parent:hover .card-img-top{
+    transform: scale(1.4);
+    
+}
+/* .card-parent:hover .card{
+box-shadow: 5px 6px 16px 0px rgba(59, 58, 58, 0.514) !important;
+} */

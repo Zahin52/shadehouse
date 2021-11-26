@@ -1,0 +1,28 @@
+/* playfair font  */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+/* body{
+  
+
+} */
+.banner{
+    background:url("https://mocah.org/uploads/posts/504393-Suit-Man-Sunglasses.jpg");
+    background-attachment: fixed;
+    height: calc(100vh - 64px);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+}
+.banner .heading{
+    height: 100%;
+    padding: 5rem;
+    font-family: 'Playfair Display', serif;
+     font-weight: bold;
+     color:rgb(209, 209, 199);
+      text-shadow: 3px 3px #020000;
+    width: 100%;
+    background: #221e1ebd;
+}
+.title{
+    font-family: 'Playfair Display', serif;
+}

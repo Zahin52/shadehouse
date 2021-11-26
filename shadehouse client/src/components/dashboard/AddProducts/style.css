@@ -1,0 +1,29 @@
+ .addProduct ::placeholder {
+  color: rgb(56, 56, 56) !important;
+  opacity: 1; 
+}
+
+.addProduct textarea::placeholder {
+   color: rgb(133, 116, 116);
+  opacity: 1; 
+  font-weight: 100;
+  font-family: "Roboto", sans-serif;
+  
+}
+.addProduct input, textarea{
+    border:1px solid #d3d3d3;
+    margin: 1rem 0;
+    color: black;
+    
+}
+.addProduct textarea{
+   
+    padding-top: 5%;
+    padding-left: 2%;
+    line-height: 21.6px;
+    font-weight: 100;
+    color: rgb(58, 50, 50) !important;
+    font-family: "Roboto", sans-serif;
+font-size: 14.4px
+    
+}
